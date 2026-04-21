@@ -35,6 +35,7 @@ o.swapfile = false
 o.hlsearch = true
 o.incsearch = true
 o.scrolloff = 15
+o.textwidth = 100
 
 -- Disable the creation of backup files (the ones ending in ~)
 vim.opt.backup = false
